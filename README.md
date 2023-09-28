@@ -5,7 +5,10 @@ WA CodingChallenge: Perception
 
 ## Methodolgy
 
-+ Detect cones in the picture.
++ Detect cones in the picture by using hsv_pick.py.
+  
+![cone_pick](https://github.com/dawn-cmd/WA_Coding_Challenge_Perception/blob/main/cone_pick.png)
+
 + Separate them into two groups through the middle line.
 + Find the slope and intercept of two lines.
 + Draw the lines
